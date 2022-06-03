@@ -1,5 +1,5 @@
 {
-  "name": "@react-native-masked-view/masked-view",
+  "name": "@react-native-community/masked-view",
   "description": "React Native MaskedView component",
   "types": "./types/index.d.ts",
   "main": "index.js",
